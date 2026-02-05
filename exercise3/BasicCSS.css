@@ -1,0 +1,24 @@
+h1 {
+color: purple;
+background-color: #fff00f
+}
+
+.turnred {
+color: red;
+}
+
+#specialp {
+background-color: orange; 
+}
+
+a {
+color: red;
+}
+
+a:visited {
+    color: maroon;
+}
+
+a:hover {
+color: blue;
+}
