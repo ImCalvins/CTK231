@@ -1,0 +1,46 @@
+
+a {
+color: green;
+text-decoration: none;
+}
+
+a:hover {
+color: red;
+text-decoration: underline;
+}
+
+#whitetext {
+    color: white;
+}
+
+
+.bluetext {
+    color: blue;
+    font-weight: bold;
+}
+
+#orangetext {
+    color: orange;
+}
+
+.yellowhigh {
+    background-color: yellow;
+}
+
+.redtext {
+    color: red;
+}
+
+#bluehigh {
+    background-color: skyblue;
+}
+
+#father {
+    color: yellow;
+    background-color: green;
+}
+
+#limehigh {
+    background-color: lime;
+}
+ 
