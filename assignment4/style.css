@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+a {
+color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+color: yellow;
+}
+
+#Address {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: orange;
+    font: italic normal 20px Arial, Helvetica, sans-serif;
+}
+
+img {
+    border: 10px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: yellow;
+}
+
+body {
+    background-image: url(grass.webp);
+    background-repeat: repeat;
+    background-position: top left;
+}   
+
